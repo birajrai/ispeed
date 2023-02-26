@@ -1,3 +1,3 @@
 # ispeed
-Fork of [SpeedSheild](https://github.com/nishantshah977/SpeedShield)
+Fork of [SpeedShield](https://github.com/nishantshah977/SpeedShield)
 
